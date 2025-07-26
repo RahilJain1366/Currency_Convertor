@@ -7,10 +7,6 @@
 .env.*.local
 api_key.env
 
-# IDE files
-.vscode/
-.idea/
-
 # OS generated files
 .DS_Store
 Thumbs.db
